@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/micah/Documents/Scala Projects/SparkProject/sparkprojects/src/main/scala/TokenCounter.scala:37:35: Unmatched closing brace '}' ignored here[0m
-[0m[[0m[31merror[0m] [0m[0m      println(s"($token, $count)")}[0m
-[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/micah/Documents/Scala Projects/SparkProject/sparkprojects/src/main/scala/mostPopular.scala:11:8: MostPopularMovies is already defined as object MostPopularMovies[0m
+[0m[[0m[31merror[0m] [0m[0mobject MostPopularMovies {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

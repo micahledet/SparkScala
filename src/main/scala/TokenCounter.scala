@@ -13,7 +13,7 @@ object TokenCounter {
     Logger.getLogger("org").setLevel(Level.ERROR)
 
     // Create a local SparkContext
-    val sc = new SparkContext("local", "TokenCounter")
+    val sc = new SparkContext("local[*]", "TokenCounter")
 
     // Load each line of text into an RDD
     val textRDD = sc.textFile("../1001_nights.txt")
